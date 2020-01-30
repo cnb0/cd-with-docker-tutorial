@@ -1,3 +1,3 @@
 #!/bin/bash
-docker tag hello-world:latest your_username/hello-world:your_tag
-docker push your_username/hello-world:your_tag
+docker tag hello-world:latest prodock0/hello-world:v2
+docker push prodock0/hello-world:v2
